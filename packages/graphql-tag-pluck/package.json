@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@babel/parser": "7.11.5",
-    "@babel/traverse": "7.11.5",
+    "@babel/traverse": "7.18.11",
     "@babel/types": "7.11.5",
     "@graphql-tools/utils": "6.2.3",
     "tslib": "~2.0.1"
@@ -25,7 +25,7 @@
     "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
-    "@types/babel__traverse": "7.0.14",
+    "@types/babel__traverse": "7.18.0",
     "vue-template-compiler": "2.6.12"
   },
   "publishConfig": {
